@@ -1,16 +1,18 @@
-## Hi there 👋
+﻿# Hi, I'm Dikki Frana Alvian 👋
 
-<!--
-**dikkifrana/dikkifrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Laboratory Engineer & Data Analyst | Experimental Data, Statistics, Machine Learning | Informatics Student
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on experimental data analysis and machine learning.
+- 🌱 I’m currently learning Informatics at Universitas Mercu Buana.
+- 📊 I specialize in statistics and processing experimental data.
+- ⚡ Fun fact: I'm a certified OHS Operator (K3 Umum).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+- **Data Analysis**: Statistics, Experimental Data Processing
+- **AI/ML**: Machine Learning, Python
+- **Engineering**: Laboratory Engineering, OHS (K3 Umum)
+- **Digital Systems**: ALU, Multiplexers
+
+---
